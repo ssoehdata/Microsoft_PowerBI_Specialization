@@ -6,7 +6,7 @@
 #### Certifications and relevant project files from the MS PowerBI Specialization Course 
 
 ### Outline 
-#### Detailed info individual courses found in their respective diretories
+#### Detailed info for the individual courses is found in the respective diretories
 <ul>
 <li>Course 1: Preparing Data for Anaylysis with Microsoft Excel</li>
 <li>Course 2: Harnesssing the Power of Data with Power BI</li>
