@@ -16,6 +16,6 @@
 <li>Course 8: Microsoft PL-300 Exam Preparation and Practice</li>  
 </ul>
 
-![alt text](https://github.com/ssoehdata/microsoft-power-bi-data-analyst-professional-certif.png) 
+![alt text](https://github.com/ssoehdata/microsoft-power-bi-data-analyst-professional-certif.png).
 
 
