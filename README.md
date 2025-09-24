@@ -17,3 +17,5 @@
 <li>Course 7: Deploy and Maintain PowerBI Assets and Capstone Project</li>
 <li>Course 8: Microsoft PL-300 Exam Preparation and Practice</li>  
 </ul>
+
+![alt text](https://github.com/ssoehdata/Certifications/microsoft-power-bi-data-analyst-professional-certif.jpg) 
