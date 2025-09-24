@@ -1,7 +1,5 @@
 # Microsoft_PowerBI_Specialization
-### Files and certifications from the Microsoft PowerBI Specicalization Course
-
-*(in progress)* 
+### Files and certifications from the Microsoft PowerBI Specicalization Course 
 
 #### Certifications and relevant project files from the MS PowerBI Specialization Course 
 
@@ -18,4 +16,4 @@
 <li>Course 8: Microsoft PL-300 Exam Preparation and Practice</li>  
 </ul>
 
-![alt text](https:/github.com/ssoehdata/Microsoft_PowerBI_SpecializationCertifications/microsoft-power-bi-data-analyst-professional-certif.jpg) 
+![alt text](https:/github.com/ssoehdata/Microsoft_PowerBI_Specialization/Certifications/microsoft-power-bi-data-analyst-professional-certif.jpg) 
